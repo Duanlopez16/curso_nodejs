@@ -1,0 +1,1 @@
+var fire = require('../../libs/firebase')
